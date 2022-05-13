@@ -1,9 +1,9 @@
 # ESP32-C3-0.42PLED 
 
-![image](https://github.com/andypiper/fivebyfive/blob/main/reference/ESP32-C3FH4-RGB-reference.jpeg)
+![image](https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/image/ESP32-C3-0.42LCD.jpg)
 
 
-![image](https://github.com/ccattuto/wordle-device/blob/main/wordle-device.jpg)
+![image](https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/image/ESP32-C3-0.42LCD.jpg)
 
 # driver
 

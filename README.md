@@ -1,4 +1,5 @@
-# ESP32-C3-0.42PLED 
+
+# ESP32-C3-0.42OLED 
 
 ![image](https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/image/ESP32-C3-0.42LCD.jpg)
 
@@ -28,13 +29,6 @@ Setup connection to connect to Board ESP32C3 Dev and com port which is assocuiat
 Hold down B button on board, press R button and release again but keep on pressing B, trigger Arduino IDE to upload sketch, keep B pressed until Arduino IDE says that it's connected. Then you can release B button.
 
 Serial works with "CDC enable on boot" set to true.
-
-# Other branches
-
-
-
-# esp32c3-bling Series' Articles
-
 
 
 # Open Source / Contributors

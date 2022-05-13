@@ -21,7 +21,18 @@ https://zadig.akeo.ie/
 Install driver with zadig as mentioned above.
 Install Arduino IDE and install espressif resources by adding line "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json" to Additional Boards Manager URLs in Arduino IDE Files / Preferences.
 Via Arduino IDE Tools/Board / Board Manager search for ESP32 and choose Espressif Systems version 2.0.3 to install it.
-Install ESP32 Digital RGB LED Drivers and Adafruit NeoPixel via option tools / Manage Libraries in Arduino IDE.
+# The following Arduino libraries need to be installed（via option tools / Manage Libraries in Arduino IDE）
+u8g2
+
+OneBitDisplay
+
+SparkFun_SCD4x_Arduino_Library
+
+thinger.io
+
+Adafruit NeoPixel 
+
+
 Setup connection to connect to Board ESP32C3 Dev and com port which is assocuiated to USB Serial Device, not jtag (see Device Manager on Win10). Other settings see settings.png.
 
 # Upload sketch from Arduino IDE:
@@ -40,6 +51,8 @@ And many many others who haven't been mentioned....
 
 # Contact 01Space
 facebook:Jiale Xu
+
 twitter:yongxiangxu251
+
 E-mail：759315223@qq.com
 

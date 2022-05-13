@@ -77,7 +77,8 @@
 #ifdef U8X8_HAVE_HW_I2C
 #include <Wire.h>
 #endif
-
+#define SDA_PIN 5
+#define SCL_PIN 6
 /*
   U8g2lib Example Overview:
     Frame Buffer Examples: clearBuffer/sendBuffer. Fast, but may not work with all Arduino boards because of RAM consumption
@@ -358,6 +359,7 @@ uint32_t lcg_rnd(void) {
 }
 
 void setup(void) {
+  Wire.begin(SDA_PIN, SCL_PIN);
   u8g2.begin();
 }
 

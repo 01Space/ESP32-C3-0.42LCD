@@ -26,7 +26,11 @@ u8g2
 
 OneBitDisplay
 
-SparkFun_SCD4x_Arduino_Library
+BitBang_I2C
+
+SparkFun_SCD4x_Arduino_Library 
+
+AnimatedGIF
 
 thinger.io
 

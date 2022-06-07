@@ -45,6 +45,9 @@ Hold down B button on board, press R button and release again but keep on pressi
 
 Serial works with "CDC enable on boot" set to true.
 
+# Upload sketch from Arduino IDE:
+
+https://github.com/01Space/ESP32-C3-0.42LCD/tree/main/micropython/image
 
 # Open Source / Contributors
 

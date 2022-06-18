@@ -57,6 +57,11 @@ Larry Bank (SCD41_CO2_sensor_demo),
 
 And many many others who haven't been mentioned....
 
+# Community
+
+We have both a Discord Server 
+https://discord.gg/zEEvySU3
+
 # Contact 01Space
 facebook:Jiale Xu
 

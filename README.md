@@ -60,7 +60,7 @@ And many many others who haven't been mentioned....
 # Community
 
 We have both a Discord Server 
-https://discord.gg/zEEvySU3
+https://discord.gg/qMDNZbX9rE
 
 # Contact 01Space
 facebook:Jiale Xu
